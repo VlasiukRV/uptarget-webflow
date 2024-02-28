@@ -4,7 +4,7 @@ services:
 
   #  Nginx latest version
   webserver:
-    image: webserver:latest
+    image: nginx:latest
     ports:
       - ${IP}:${WP_PORT}:80
     volumes:
