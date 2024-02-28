@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="27px" viewBox="0 0 89 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pager Left</title>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-572, -4580)" stroke="#1A1A1C" stroke-width="2">
+            <g id="Testimonials" transform="translate(130, 3956)">
+                <g id="Pager-Left" transform="translate(443, 625)">
+                    <line x1="0.5" y1="12.5" x2="87.5" y2="12.5" id="Line"></line>
+                    <line x1="0.5" y1="12.5" x2="12.5" y2="0.5" id="Line-2" stroke-linecap="square"></line>
+                    <line x1="0.5" y1="24.5" x2="12.5" y2="12.5" id="Line-2" stroke-linecap="square" transform="translate(6.5, 18.5) scale(1, -1) translate(-6.5, -18.5)"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

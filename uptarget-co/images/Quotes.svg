@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="37px" viewBox="0 0 84 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Quotes</title>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Careers-(desktop)" transform="translate(-129, -7153)" fill="#FF5700">
+            <g id="People" transform="translate(-1, 6911)">
+                <g id="Group" transform="translate(130, 241.9946)">
+                    <path d="M18.5,36.9990389 C28.7172679,36.9990389 37,28.7165219 37,18.4995195 C37,8.28251698 28.7172679,0 18.5,0 C8.28273213,0 0,8.28251698 0,18.4995195 C0,28.7165219 8.28273213,36.9990389 18.5,36.9990389 Z M65.5,36.9990389 C75.7172679,36.9990389 84,28.7165219 84,18.4995195 C84,8.28251698 75.7172679,0 65.5,0 C55.2827321,0 47,8.28251698 47,18.4995195 C47,28.7165219 55.2827321,36.9990389 65.5,36.9990389 Z" id="Quotes"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
